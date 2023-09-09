@@ -2,4 +2,9 @@
     <string name="app_name">Playground</string>
     <string name="happy_birthday_text">Happy Birthday Sam!</string>
     <string name="signature_text">From Eduardo</string>
+
+    <string name="compose_article_header">Jetpack Compose tutorial</string>
+    <string name="compose_article_intro">Jetpack Compose is a modern toolkit for building native Android UI. Compose
+        simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.
+    </string>
 </resources>
