@@ -16,4 +16,7 @@
     <string name="quadrant_fourth_title">Column  composable</string>
     <string name="quadrant_fourth_description">A layout composable that places its children in a vertical sequence.</string>
 
+
+    <!--  Dice Roller  -->
+    <string name="roll">Roll</string>
 </resources>
