@@ -1,4 +1,4 @@
-package br.com.jeoliveira.playground
+package br.com.jeoliveira.playground.unit2.pathway2
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column
@@ -9,6 +9,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
+import br.com.jeoliveira.playground.R
 
 @Composable
 fun DiceRoller(modifier: Modifier = Modifier) {
